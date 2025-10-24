@@ -70,22 +70,42 @@ education:
       Supervised by Prof. Jin Zhang.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Research Scientist
+    company_name: Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR)
     icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-09
+    date_end: 2025-10
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Mentor
+    company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
+    icon: ''
+    date_start: 2024-11
+    date_end: 2025-05
+    summary: |
+  - position: Invited Instructor
+    company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
+    icon: ''
+    date_start: 2024-11
+    date_end: 2025-02
+    summary: |
+  - position: Mentor
+    company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
+    icon: ''
+    date_start: 2023-11
+    date_end: 2024-05
+    summary: |
+  - position: Invited Instructor
+    company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
+    icon: ''
+    date_start: 2023-11
+    date_end: 2024-02
+    summary: |
+  - position: Teaching Assistant
+    company_name: Department of Computer Science and Engineering, Southern University of Science and Technology
+    icon: ''
+    date_start: 2018-01
+    date_end: 2020-01
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
