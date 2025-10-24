@@ -10,11 +10,11 @@ first_name: Mingzhe
 last_name: Li
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
-status:
-  icon: 🚀
+status: Hiring
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: School of Computing and Information Technology, Great Bay University
+    url: https://www.gbu.edu.cn/menu/177?lang=en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:mlibn@connect.ust.hk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
