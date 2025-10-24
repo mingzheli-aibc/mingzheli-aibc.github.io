@@ -13,7 +13,7 @@ last_name: Li
 pronouns: ''
 
 # Status emoji
-status: Hiring
+status: 
   icon: 
 
 # Is this the primary user of the site?
