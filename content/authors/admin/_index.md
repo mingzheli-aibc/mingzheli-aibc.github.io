@@ -69,33 +69,33 @@ work:
   - position: Research Scientist
     company_name: Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR)
     icon: ''
-    date_start: 2020-09
-    date_end: 2025-10
+    date_start: 2020-09-01
+    date_end: 2025-10-01
   - position: Mentor
     company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
     icon: ''
-    date_start: 2024-11
-    date_end: 2025-05
+    date_start: 2024-11-01
+    date_end: 2025-05-01
   - position: Invited Instructor
     company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
     icon: ''
-    date_start: 2024-11
-    date_end: 2025-02
+    date_start: 2024-11-01
+    date_end: 2025-02-01
   - position: Mentor
     company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
     icon: ''
-    date_start: 2023-11
-    date_end: 2024-05
+    date_start: 2023-11-01
+    date_end: 2024-05-01
   - position: Invited Instructor
     company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
     icon: ''
-    date_start: 2023-11
-    date_end: 2024-02
+    date_start: 2023-11-01
+    date_end: 2024-02-01
   - position: Teaching Assistant
     company_name: Department of Computer Science and Engineering, Southern University of Science and Technology
     icon: ''
-    date_start: 2018-01
-    date_end: 2020-01
+    date_start: 2018-01-01
+    date_end: 2020-01-01
 
 
 
