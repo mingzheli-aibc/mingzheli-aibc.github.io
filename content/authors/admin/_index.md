@@ -53,18 +53,6 @@ interests:
   - Reinforcement Learning
   - AI Ethics
 
-education:
-  - area: PhD Computer Science and Engineering
-    institution: Hong Kong University of Science and Technology
-    icon: ""
-    summary: |
-      Supervised by Prof. Wei Wang, and Prof. Jin Zhang.
-  - area: BE Communication Engineering
-    institution: Southern University of Science and Technology
-    icon: ""
-    summary: |
-      Supervised by Prof. Jin Zhang.
-
 work:
   - position: Research Scientist
     company_name: Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR)
