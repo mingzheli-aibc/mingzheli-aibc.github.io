@@ -9,18 +9,12 @@ design:
 
 # Page sections
 sections:
-  - block: collection
+  - block: markdown
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      filters:
-        folders:
-          - projects
+      title: Projects
+      subtitle: ''
+      text: |-
+        ...
     design:
-      view: article-grid
-      fill_image: false
-      columns: 3
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+      columns: '1'
 ---
