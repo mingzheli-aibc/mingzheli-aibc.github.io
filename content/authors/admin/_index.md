@@ -36,10 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mlibn@connect.ust.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mingzhe-li-93701223a/
   - icon: academicons/google-scholar
@@ -48,10 +44,10 @@ profiles:
     url: https://orcid.org/0000-0002-4707-7588
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - "Blockchain Sharding & Interoperability"
+  - "DeFi Security"
+  - Consensus & Distributed Systems
+  - "AI for Blockchain"
 
 work:
   - position: Research Scientist
@@ -92,27 +88,18 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
+  - title: Winner of National Singapore Blockchain Innovation Challenge, ”Blockchain-based Federated
+Learning Platform”
+    date: '2024-05-01'
+    awarder: National Singapore Blockchain Innovation Challenge
+  - title: Selected PhD Graduates
     date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+    awarder: HKUST CSE Department
+  - title: Outstanding Graduates
+    date: '2016-07-01'
+    awarder: Southern University of Science and Technology
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Mingzhe Li is an incoming US-equivalent Assistant Professor at Great Bay University (from Jan 2026). Previously, He was a Research Scientist at the Institute of High Performance Computing (IHPC), A*STAR in Singapore, where he led the blockchain research team. He received his Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, under Prof. [Wei Wang][https://www.cse.ust.hk/~weiwa/] and Prof. [Jin Zhang][https://jinzhang-sustech.github.io/]. Prior to that, he received his B.E. in Communication Engineering from the Southern University of Science and Technology (SUSTech). 
+
+His work explores blockchain interoperability, sharding protocols, security enhancements, and intelligent blockchain systems. He has spearheaded the development of a new Layer-1 blockchain (the [HeLa Network][https://helalabs.com/]) that launched its mainnet in 2024, and has published extensively in top journals and conferences. He is also active in the research community, serving as a reviewer for numerous IEEE/ACM journals and conferences, and co-organizing workshops bridging blockchain and AI. 
