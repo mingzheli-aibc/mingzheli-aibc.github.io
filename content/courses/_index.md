@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Teaching & Mentorship
+summary: ''
 type: landing
 
 cascade:
@@ -11,18 +11,13 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
+  - block: markdown
     id: courses
     content:
       title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
+      subtitle: ''
+      text: |-
+        ...
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+      columns: '1'
 ---
