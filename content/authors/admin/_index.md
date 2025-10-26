@@ -88,8 +88,7 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Winner of National Singapore Blockchain Innovation Challenge, ”Blockchain-based Federated
-Learning Platform”
+  - title: Winner of National Singapore Blockchain Innovation Challenge, ”Blockchain-based Federated Learning Platform”
     date: '2024-05-01'
     awarder: National Singapore Blockchain Innovation Challenge
   - title: Selected PhD Graduates
