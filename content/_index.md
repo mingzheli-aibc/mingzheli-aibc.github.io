@@ -37,25 +37,45 @@ sections:
         My research interests span the broad domain of blockchain systems and Web 3.0, with a particular focus on blockchain interoperability, sharding, security, and intelligent blockchain systems. I am especially interested in designing scalable and efficient blockchain protocols, leveraging AI-driven techniques to enhance security and performance, and exploring decentralized finance (DeFi) and network economics. My work aims to address fundamental challenges in blockchain scalability, security, and usability by developing innovative and practically deployable solutions that push the boundaries of blockchain technology for real-world applications.
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
+    id: hiring
     content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
+      title: Open Positions
+      subtitle: ''
+      text: |-
+        ## 🎓 Open Positions: PhD, Master’s, Postdoc, and Research Assistant
+        
+        I am recruiting **PhD students, Master’s students, Postdoctoral Researchers,** and **Research Assistants** (full-time or part-time). **Start dates are flexible**; applications are reviewed on a rolling basis.
+        
+        **Research Focus (including but not limited to)**
+        - **Blockchain systems & protocols:** sharding, cross-chain interoperability, consensus, verifiable computation/zk, L2 & rollups  
+        - **DeFi security & economics:** MEV/PG mitigation, transaction routing and cost optimization, attack detection/traceability  
+        - **AI for Blockchain Systems:** on-chain & node telemetry, anomaly detection, time-series forecasting, retrieval-augmented analytics
+        
+        **What We’re Looking For**
+        - Background in **systems/networks/cryptography/data/ML** (one or more)  
+        - Strong implementation skills in **Rust / Go / C/C++ / Python** (one or more)  
+        - Curiosity and drive for **both research and real-world impact** (papers/open-source/prototypes)  
+        - Bonus (not required): publications, competition results, open-source contributions, or solid engineering experience
+        
+        **What We Offer**
+        - Close mentorship and collaborative projects that bridge academia and industry  
+        - Opportunities to build **real systems/prototypes** (idea → experiments → paper/open-source/prototype)  
+        - Scholarships/salaries in line with university and project policies (to be discussed)
+        
+        **How to Apply (Rolling Review)**
+        Please email **[mlibn@connect.ust.hk](mailto:mlibn@connect.ust.hk)** with subject  
+        `Application – Position – Your Name – Research Area`, and include:
+        1. **CV** (with links to projects/papers/open-source)  
+        2. **Transcript(s)** (if available)  
+        3. **One representative paper or code repo** (if available)  
+        4. **1-page research statement** (interests, prior experience, and fit)
+        
+        > Strong candidates are welcome to start as **RA** (onsite or remote) before formal enrollment.  
+        > Candidates proposing their own topics or **co-advised projects** are also welcome.
+
     design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+      columns: '1'
   - block: collection
     id: news
     content:
@@ -85,6 +105,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
