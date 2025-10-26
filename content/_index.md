@@ -40,16 +40,14 @@ sections:
   - block: markdown
     id: hiring
     content:
-      title: Open Positions
+      title: 🎓 Open Positions
       subtitle: ''
-      text: |-
-        ## 🎓 Open Positions: PhD, Master’s, Postdoc, and Research Assistant
-        
+      text: |-        
         I am recruiting **PhD students, Master’s students, Postdoctoral Researchers,** and **Research Assistants** (full-time or part-time). **Start dates are flexible**; applications are reviewed on a rolling basis.
         
         **Research Focus (including but not limited to)**
         - **Blockchain systems & protocols:** sharding, cross-chain interoperability, consensus, verifiable computation/zk, L2 & rollups  
-        - **DeFi security & economics:** MEV/PG mitigation, transaction routing and cost optimization, attack detection/traceability  
+        - **DeFi security & economics:** MEV mitigation, transaction routing and cost optimization, attack detection/traceability  
         - **AI for Blockchain Systems:** on-chain & node telemetry, anomaly detection, time-series forecasting, retrieval-augmented analytics
         
         **What We’re Looking For**
@@ -69,7 +67,7 @@ sections:
         1. **CV** (with links to projects/papers/open-source)  
         2. **Transcript(s)** (if available)  
         3. **One representative paper or code repo** (if available)  
-        4. **1-page research statement** (interests, prior experience, and fit)
+        4. **1-page research statement** (if available)
         
         > Strong candidates are welcome to start as **RA** (onsite or remote) before formal enrollment.  
         > Candidates proposing their own topics or **co-advised projects** are also welcome.
