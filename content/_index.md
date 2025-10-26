@@ -84,6 +84,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: papers
     content:
       title: Publications
       subtitle: ''
