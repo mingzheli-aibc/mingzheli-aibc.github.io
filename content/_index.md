@@ -34,27 +34,12 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        My research interests span the broad domain of blockchain systems and Web 3.0, with a particular focus on blockchain interoperability, sharding, security, and intelligent blockchain systems. I am especially interested in designing scalable and efficient blockchain protocols, leveraging AI-driven techniques to enhance security and performance, and exploring decentralized finance (DeFi) and network economics. My work aims to address fundamental challenges in blockchain scalability, security, and usability by developing innovative and practically deployable solutions that push the boundaries of blockchain technology for real-world applications.
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
