@@ -89,7 +89,43 @@ sections:
       title: Publications
       subtitle: ''
       text: |-
-        ...
+        ### Published
+        
+        1. **Chaoyue Yin*†**, **Mingzhe Li***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh. “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
+        
+        2. **You Lin*†**, **Mingzhe Li***, and Jin Zhang. “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement.” *IEEE/ACM Transactions on Networking (TON)*, 2025.
+        
+        3. **Mingzhe Li**, You Lin†, Jin Zhang, and Wei Wang. “SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding.” *IEEE Internet of Things Journal (IoTJ)*, 2025.
+        
+        4. **Mingzhe Li**, Jin Zhang, and Wei Wang. “Towards Efficient and Deposit-Free Blockchain-Based Spatial Crowdsourcing.” *ACM Transactions on Sensor Networks (TOSN)*, 2024.
+        
+        5. **Mingzhe Li**, Jin Zhang, and Wei Wang. “LB-Chain: Load-Balanced and Low-Latency Blockchain Sharding via Account Migration.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2023.
+        
+        6. **Mingzhe Li**, You Lin†, Jin Zhang, and Wei Wang. “CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus.” *IEEE INFOCOM*, 2023 (acceptance rate 19.2%).
+        
+        7. **Mingzhe Li**, You Lin†, Jin Zhang, and Wei Wang. “Jenga: Orchestrating Smart Contracts in Sharding-Based Blockchain for Efficient Processing.” *IEEE ICDCS*, 2022 (acceptance rate 19.9%).
+        
+        8. **Mingzhe Li**, Jin Zhang, Wei Wang, and Qian Zhang. “Incentivizing WiFi-based Multilateration Location Verification.” *IEEE Internet of Things Journal (IoTJ)*, 2021.
+        
+        9. **Mingzhe Li**, Jingrou Wu, Jin Zhang, and Wei Wang. “Towards Privacy-Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing.” *IEEE Internet of Things Journal (IoTJ)*, 2021.
+        
+        10. **Mingzhe Li**, Jin Zhang, and Wei Wang. “Task Selection and Scheduling for Food Delivery: A Game-Theoretic Approach.” *IEEE GLOBECOM*, 2018.
+        
+        11. **Mingzhe Li**, Yue Zhang, Zidong Han, and Yi Gong. “Measurement of Respiration Frequency in Ultra-Wide Band Radar System.” *Big Data Technology and Applications*, 2015.
+        
+        ### In Submission
+        
+        1. **Hulin Yang*†**, **Mingzhe Li***, Qingsong Wei, Siow Mong Rick Goh, and Jin Zhang. “NSADetector: Detect New Sandwich Attack in Ethereum via GCN-Based Siamese Network.” *NDSS ’26*, in submission.
+        
+        2. **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei. “MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption.” *arXiv:2410.22100*, 2024 (submitted to *IEEE Internet of Things Journal*).
+        
+        3. **Hulin Yang*†**, **Mingzhe Li***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh. “BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production.” *arXiv:2407.08537*, 2024 (submitted to *IEEE Transactions on Dependable and Secure Computing*).
+        
+        4. **You Lin*†**, **Mingzhe Li***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang. “DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus.” *arXiv:2407.06882*, 2024 (submitted to *IEEE Transactions on Systems, Man, and Cybernetics: Systems*).
+        
+        ---
+        
+        **Legend:** **Bold** = you; **†** = (co-)supervised student; **\*** = equal contribution.
     design:
       columns: '1'
   - block: cta-card
