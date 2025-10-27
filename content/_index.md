@@ -91,9 +91,9 @@ sections:
       text: |-
         ### Published
         
-        - **Chaoyue Yin*†**, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh. “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
+        - Chaoyue Yin†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh. “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
         
-        - **You Lin*†**, **Mingzhe Li\***, and Jin Zhang. “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement.” *IEEE/ACM Transactions on Networking (TON)*, 2025.
+        - You Lin†, **Mingzhe Li\***, and Jin Zhang. “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement.” *IEEE/ACM Transactions on Networking (TON)*, 2025.
         
         - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang. “SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding.” *IEEE Internet of Things Journal (IoTJ)*, 2025.
         
@@ -115,9 +115,9 @@ sections:
         
         - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei. “MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption.” *arXiv:2410.22100*, 2024.
         
-        - **Hulin Yang*†**, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh. “BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production.” *arXiv:2407.08537*, 2024.
+        - Hulin Yang†, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh. “BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production.” *arXiv:2407.08537*, 2024.
         
-        - **You Lin*†**, **Mingzhe Li\***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang. “DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus.” *arXiv:2407.06882*, 2024.
+        - You Lin†, **Mingzhe Li\***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang. “DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus.” *arXiv:2407.06882*, 2024.
         
         ---
         
