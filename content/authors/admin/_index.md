@@ -103,4 +103,4 @@ Mingzhe Li is an incoming US-equivalent Assistant Professor at Great Bay Univers
 
 His work explores blockchain interoperability, sharding protocols, security enhancements, and intelligent blockchain systems. He has spearheaded the development of a new Layer-1 blockchain (the [HeLa Network](https://helalabs.com/)) that launched its mainnet in 2024, and has published extensively in top journals and conferences. He is also active in the research community, serving as a reviewer for numerous IEEE/ACM journals and conferences, and co-organizing workshops bridging blockchain and AI. 
 
-**Hiring:** I’m recruiting **PhD students, Master’s students, Postdocs, and Research Assistants** — see **[Open Positions](/#hiring)**.
+📢 **Hiring:** I’m recruiting **PhD students, Master’s students, Postdocs, and Research Assistants** — see **[Open Positions](/#hiring)**.
