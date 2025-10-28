@@ -77,10 +77,16 @@ sections:
   - block: markdown
     id: news
     content:
-      title: Recent News
+      title: 🗞️ Recent News
       subtitle: ''
       text: |-
-        ...
+        - 09/2025: Our paper “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution” has been accepted by IEEE TPDS.
+
+        - 08/2025: I will formally join the Greater Bay University at the end of the year.
+
+        - 07/2025: Our paper “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement” has been accepted by IEEE/ACM Transactions on Networking.
+
+        - 05/2025: Our paper “SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding” has been accepted by IEEE IoTJ.
     design:
       columns: '1'
   - block: markdown
