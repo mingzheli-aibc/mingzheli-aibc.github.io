@@ -9,6 +9,18 @@ name_pronunciation: ''
 first_name: Mingzhe
 last_name: Li
 
+# SEO keywords
+keywords:
+  - blockchain researcher
+  - blockchain sharding
+  - cross-chain interoperability
+  - DeFi security
+  - distributed systems
+  - HeLa Network
+  - Great Bay University
+  - consensus protocols
+  - smart contracts
+
 # Pronouns (optional)
 pronouns: ''
 
