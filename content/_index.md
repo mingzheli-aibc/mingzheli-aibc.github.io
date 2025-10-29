@@ -1,8 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Mingzhe Li - Blockchain Researcher & Assistant Professor'
 date: 2022-10-24
 type: landing
+
+# SEO
+description: 'Mingzhe Li is an Assistant Professor at Great Bay University specializing in blockchain systems, sharding protocols, cross-chain interoperability, and DeFi security. Leader of HeLa Network blockchain development.'
+keywords:
+  - Mingzhe Li
+  - blockchain researcher
+  - blockchain sharding
+  - cross-chain interoperability
+  - DeFi security
+  - HeLa Network
+  - Great Bay University
+  - distributed systems
+  - consensus protocols
 
 design:
   # Default section spacing
@@ -80,13 +93,13 @@ sections:
       title: 🗞️ Recent News
       subtitle: ''
       text: |-
-        - 09/2025: Our paper “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution” has been accepted by IEEE TPDS.
+        - **09/2025** · Our paper **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution"** has been accepted by *IEEE TPDS*.
 
-        - 08/2025: I will formally join the Greater Bay University at the end of the year.
+        - **08/2025** · I will formally join **Great Bay University** at the end of the year.
 
-        - 07/2025: Our paper “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement” has been accepted by IEEE/ACM Transactions on Networking.
+        - **07/2025** · Our paper **"SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement"** has been accepted by *IEEE/ACM Transactions on Networking*.
 
-        - 05/2025: Our paper “SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding” has been accepted by IEEE IoTJ.
+        - **05/2025** · Our paper **"SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding"** has been accepted by *IEEE IoTJ*.
     design:
       columns: '1'
   - block: markdown
@@ -95,59 +108,71 @@ sections:
       title: 📑 Publications
       subtitle: ''
       text: |-
-        ### Published
-        
-        - Chaoyue Yin\*†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh. “Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
-        
-        - You Lin\*†, **Mingzhe Li\***, and Jin Zhang. “SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement.” *IEEE/ACM Transactions on Networking (TON)*, 2025.
-        
-        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang. “SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding.” *IEEE Internet of Things Journal (IoTJ)*, 2025.
-        
-        - **Mingzhe Li**, Jin Zhang, and Wei Wang. “Towards Efficient and Deposit-Free Blockchain-Based Spatial Crowdsourcing.” *ACM Transactions on Sensor Networks (TOSN)*, 2024.
-        
-        - **Mingzhe Li**, Jin Zhang, and Wei Wang. “LB-Chain: Load-Balanced and Low-Latency Blockchain Sharding via Account Migration.” *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2023.
-        
-        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang. “CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus.” *IEEE INFOCOM*, 2023 (acceptance rate 19.2%).
-        
-        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang. “Jenga: Orchestrating Smart Contracts in Sharding-Based Blockchain for Efficient Processing.” *IEEE ICDCS*, 2022 (acceptance rate 19.9%).
-        
-        - **Mingzhe Li**, Jin Zhang, Wei Wang, and Qian Zhang. “Incentivizing WiFi-based Multilateration Location Verification.” *IEEE Internet of Things Journal (IoTJ)*, 2021.
-        
-        - **Mingzhe Li**, Jingrou Wu, Jin Zhang, and Wei Wang. “Towards Privacy-Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing.” *IEEE Internet of Things Journal (IoTJ)*, 2021.
-        
-        - **Mingzhe Li**, Jin Zhang, and Wei Wang. “Task Selection and Scheduling for Food Delivery: A Game-Theoretic Approach.” *IEEE GLOBECOM*, 2018.
-        
-        ### Preprint
-        
-        - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei. “MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption.” *arXiv:2410.22100*, 2024.
-        
-        - Hulin Yang\*†, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh. “BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production.” *arXiv:2407.08537*, 2024.
-        
-        - You Lin\*†, **Mingzhe Li\***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang. “DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus.” *arXiv:2407.06882*, 2024.
+        ### 📰 Journal Articles
+
+        - **[J1]** Chaoyue Yin\*†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh.
+          **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution."**
+          *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
+
+        - **[J2]** You Lin\*†, **Mingzhe Li\***, and Jin Zhang.
+          **"SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement."**
+          *IEEE/ACM Transactions on Networking (TON)*, 2025.
+
+        - **[J3]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+          **"SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding."**
+          *IEEE Internet of Things Journal (IoTJ)*, 2025.
+
+        - **[J4]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+          **"Towards Efficient and Deposit-Free Blockchain-Based Spatial Crowdsourcing."**
+          *ACM Transactions on Sensor Networks (TOSN)*, 2024.
+
+        - **[J5]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+          **"LB-Chain: Load-Balanced and Low-Latency Blockchain Sharding via Account Migration."**
+          *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2023.
+
+        - **[J6]** **Mingzhe Li**, Jin Zhang, Wei Wang, and Qian Zhang.
+          **"Incentivizing WiFi-based Multilateration Location Verification."**
+          *IEEE Internet of Things Journal (IoTJ)*, 2021.
+
+        - **[J7]** **Mingzhe Li**, Jingrou Wu, Jin Zhang, and Wei Wang.
+          **"Towards Privacy-Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing."**
+          *IEEE Internet of Things Journal (IoTJ)*, 2021.
+
+        ---
+
+        ### 🎓 Conference Papers
+
+        - **[C1]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+          **"CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus."**
+          *IEEE INFOCOM 2023* · Acceptance Rate: 19.2%
+
+        - **[C2]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+          **"Jenga: Orchestrating Smart Contracts in Sharding-Based Blockchain for Efficient Processing."**
+          *IEEE ICDCS 2022* · Acceptance Rate: 19.9%
+
+        - **[C3]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+          **"Task Selection and Scheduling for Food Delivery: A Game-Theoretic Approach."**
+          *IEEE GLOBECOM 2018*
+
+        ---
+
+        ### 📄 Preprints & Under Review
+
+        - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei.
+          **"MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption."**
+          *arXiv:2410.22100*, 2024.
+
+        - Hulin Yang\*†, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh.
+          **"BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production."**
+          *arXiv:2407.08537*, 2024.
+
+        - You Lin\*†, **Mingzhe Li\***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang.
+          **"DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus."**
+          *arXiv:2407.06882*, 2024.
         
         ---
-        
+
         **Legend:** **†** = (co-)supervised student; **\*** = equal contribution.
     design:
       columns: '1'
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---
