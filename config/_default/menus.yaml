@@ -7,21 +7,22 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Research
-    url: /#papers
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Teaching
-    url: courses/
-    weight: 40
-  - name: Experience
-    url: experience/
-    weight: 50
   - name: Hiring
     url: /#hiring
-    weight: 60
+    weight: 20
   - name: News
     url: /#news
+    weight: 30
+  - name: Publications
+    url: /#papers
+    weight: 40
+  - name: Projects
+    url: projects/
+    weight: 50
+  - name: Teaching
+    url: courses/
+    weight: 60
+  - name: Other Info
+    url: experience/
     weight: 70
+
