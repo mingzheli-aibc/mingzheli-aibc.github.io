@@ -10,6 +10,13 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      text: |
+        <link rel="stylesheet" href="/css/custom.css">
+    design:
+      columns: '1'
+      css_class: 'hidden'
   - block: resume-experience
     content:
       username: admin

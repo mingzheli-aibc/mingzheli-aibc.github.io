@@ -12,6 +12,13 @@ cascade:
 
 sections:
   - block: markdown
+    content:
+      text: |
+        <link rel="stylesheet" href="/css/custom.css">
+    design:
+      columns: '1'
+      css_class: 'hidden'
+  - block: markdown
     id: courses
     content:
       title: Teaching
@@ -32,6 +39,7 @@ sections:
         - **CS305: Computer Networks** — *Spring 2018*  
     design:
       columns: '1'
+      css_class: 'wide-content'
   - block: markdown
     id: courses
     content:
@@ -52,4 +60,5 @@ sections:
 
     design:
       columns: '1'
+      css_class: 'wide-content'
 ---

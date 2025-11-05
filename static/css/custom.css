@@ -1,0 +1,52 @@
+/* Custom styles for content width consistency and font size alignment */
+
+/* Make markdown sections with wide-content class wider to match biography section */
+.wide-content .max-w-prose {
+  max-width: 60rem !important;
+}
+
+/* Make resume experience and awards sections wider */
+.blox-resume-experience .max-w-4xl,
+.blox-resume-awards .max-w-4xl {
+  max-width: 70rem !important;
+}
+
+/* Adjust font size for markdown sections to match experience section */
+.wide-content .prose {
+  font-size: 1rem !important;
+}
+
+.wide-content .prose p,
+.wide-content .prose li {
+  font-size: 1rem !important;
+  line-height: 1.75rem !important;
+}
+
+/* Ensure biography text also uses consistent font size */
+.blox-resume-biography-3 .prose p {
+  font-size: 1rem !important;
+  line-height: 1.75rem !important;
+}
+
+/* Ensure resume experience and awards use consistent font size */
+.blox-resume-experience p,
+.blox-resume-experience li,
+.blox-resume-awards p,
+.blox-resume-awards li {
+  font-size: 1rem !important;
+  line-height: 1.75rem !important;
+}
+
+/* Override prose-xl font scaling on larger screens */
+@media (min-width: 1024px) {
+  .wide-content .prose.lg\:prose-xl {
+    font-size: 1rem !important;
+  }
+  
+  .wide-content .prose.lg\:prose-xl p,
+  .wide-content .prose.lg\:prose-xl li {
+    font-size: 1rem !important;
+    line-height: 1.75rem !important;
+  }
+}
+

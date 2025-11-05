@@ -11,6 +11,13 @@ design:
 sections:
   - block: markdown
     content:
+      text: |
+        <link rel="stylesheet" href="/css/custom.css">
+    design:
+      columns: '1'
+      css_class: 'hidden'
+  - block: markdown
+    content:
       title: Projects
       subtitle: ''
       text: |-        
@@ -84,4 +91,5 @@ sections:
 
     design:
       columns: '1'
+      css_class: 'wide-content'
 ---
