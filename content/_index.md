@@ -108,49 +108,45 @@ sections:
       title: 📑 Publications
       subtitle: ''
       text: |-
-        ### 📰 Journal Articles
+        ### Published
 
-        - **[J1]** Chaoyue Yin\*†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh.
+        - Chaoyue Yin\*†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh.
           **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution."**
           *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2025.
 
-        - **[J2]** You Lin\*†, **Mingzhe Li\***, and Jin Zhang.
+        - You Lin\*†, **Mingzhe Li\***, and Jin Zhang.
           **"SpiralShard: Highly Concurrent and Secure Blockchain Sharding via Linked Cross-shard Endorsement."**
           *IEEE/ACM Transactions on Networking (TON)*, 2025.
 
-        - **[J3]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
           **"SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding."**
           *IEEE Internet of Things Journal (IoTJ)*, 2025.
 
-        - **[J4]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, Jin Zhang, and Wei Wang.
           **"Towards Efficient and Deposit-Free Blockchain-Based Spatial Crowdsourcing."**
           *ACM Transactions on Sensor Networks (TOSN)*, 2024.
 
-        - **[J5]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, Jin Zhang, and Wei Wang.
           **"LB-Chain: Load-Balanced and Low-Latency Blockchain Sharding via Account Migration."**
           *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2023.
 
-        - **[J6]** **Mingzhe Li**, Jin Zhang, Wei Wang, and Qian Zhang.
-          **"Incentivizing WiFi-based Multilateration Location Verification."**
-          *IEEE Internet of Things Journal (IoTJ)*, 2021.
-
-        - **[J7]** **Mingzhe Li**, Jingrou Wu, Jin Zhang, and Wei Wang.
-          **"Towards Privacy-Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing."**
-          *IEEE Internet of Things Journal (IoTJ)*, 2021.
-
-        ---
-
-        ### 🎓 Conference Papers
-
-        - **[C1]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
           **"CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus."**
           *IEEE INFOCOM 2023* · Acceptance Rate: 19.2%
 
-        - **[C2]** **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, You Lin, Jin Zhang, and Wei Wang.
           **"Jenga: Orchestrating Smart Contracts in Sharding-Based Blockchain for Efficient Processing."**
           *IEEE ICDCS 2022* · Acceptance Rate: 19.9%
 
-        - **[C3]** **Mingzhe Li**, Jin Zhang, and Wei Wang.
+        - **Mingzhe Li**, Jin Zhang, Wei Wang, and Qian Zhang.
+          **"Incentivizing WiFi-based Multilateration Location Verification."**
+          *IEEE Internet of Things Journal (IoTJ)*, 2021.
+
+        - **Mingzhe Li**, Jingrou Wu, Jin Zhang, and Wei Wang.
+          **"Towards Privacy-Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing."**
+          *IEEE Internet of Things Journal (IoTJ)*, 2021.
+
+        - **Mingzhe Li**, Jin Zhang, and Wei Wang.
           **"Task Selection and Scheduling for Food Delivery: A Game-Theoretic Approach."**
           *IEEE GLOBECOM 2018*
 
