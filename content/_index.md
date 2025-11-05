@@ -152,7 +152,7 @@ sections:
 
         ---
 
-        ### 📄 Preprints & Under Review
+        ### Preprints & Under Review
 
         - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei.
           **"MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption."**
