@@ -22,6 +22,13 @@ design:
   spacing: '6rem'
 
 sections:
+  - block: markdown
+    content:
+      text: |
+        <link rel="stylesheet" href="/css/custom.css">
+    design:
+      columns: '1'
+      css_class: 'hidden'
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -50,6 +57,7 @@ sections:
         My research interests span the broad domain of blockchain systems and Web 3.0, with a particular focus on blockchain interoperability, sharding, security, and intelligent blockchain systems. I am especially interested in designing scalable and efficient blockchain protocols, leveraging AI-driven techniques to enhance security and performance, and exploring decentralized finance (DeFi) and network economics. My work aims to address fundamental challenges in blockchain scalability, security, and usability by developing innovative and practically deployable solutions that push the boundaries of blockchain technology for real-world applications.
     design:
       columns: '1'
+      css_class: 'wide-content'
   - block: markdown
     id: hiring
     content:
@@ -87,6 +95,7 @@ sections:
 
     design:
       columns: '1'
+      css_class: 'wide-content'
   - block: markdown
     id: news
     content:
@@ -102,6 +111,7 @@ sections:
         - **05/2025** · Our paper **"SP-Chain: Boosting Intra-Shard and Cross-Shard Security and Performance in Blockchain Sharding"** has been accepted by *IEEE IoTJ*.
     design:
       columns: '1'
+      css_class: 'wide-content'
   - block: markdown
     id: papers
     content:
@@ -171,4 +181,5 @@ sections:
         **Legend:** **†** = (co-)supervised student; **\*** = equal contribution.
     design:
       columns: '1'
+      css_class: 'wide-content'
 ---
