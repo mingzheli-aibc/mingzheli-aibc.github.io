@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Mingzhe Li - Blockchain Researcher & Assistant Professor'
+title: 'Mingzhe Li - Homepage'
 date: 2022-10-24
 type: landing
 
