@@ -52,9 +52,9 @@ sections:
         
         ### Master’s students (current)
         - **Chaoyue Yin; Yuyang Peng** — Co-supervised with Prof. Jin Zhang (SUSTech), *2024–Present*.  
-        - **Jianzhang Li; Fanhui Yao; Ting Yang; Han Gao** — NTU CCTF Blockchain Capstone Project (2024), *2024–2025*.  
         
         ### Master’s students (past)
+        - **Jianzhang Li; Fanhui Yao; Ting Yang; Han Gao** — NTU CCTF Blockchain Capstone Project (2024), *2024–2025*.  
         - **You Lin** — Co-supervised with Prof. Jin Zhang (SUSTech), *2022–2024*.  
         - **Hexiang Qi; Renjian Lin; Sicong Wang; Jiaxiang Zou** — NTU CCTF Blockchain Capstone Project (2023), *2023–2024*.  
 
