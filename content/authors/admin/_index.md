@@ -62,6 +62,11 @@ interests:
   - "AI for Blockchain"
 
 work:
+  - position: Invited Instructor
+    company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
+    icon: ''
+    date_start: 2025-11-01
+    date_end: 
   - position: Research Scientist
     company_name: Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR)
     icon: ''
@@ -111,8 +116,8 @@ awards:
     awarder: Southern University of Science and Technology
 ---
 
-Mingzhe Li is an incoming US-equivalent Assistant Professor at Great Bay University (from Jan 2026). Previously, He was a Research Scientist at the Institute of High Performance Computing (IHPC), A*STAR in Singapore, where he led the blockchain research team. He received his Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, under Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) and Prof. [Jin Zhang](https://jinzhang-sustech.github.io/). Prior to that, he received his B.E. in Communication Engineering from the Southern University of Science and Technology (SUSTech). 
+I am an incoming US-equivalent Assistant Professor at Great Bay University (from Jan 2026). Previously, I was a Research Scientist at the Institute of High Performance Computing (IHPC), A*STAR in Singapore, where I led the blockchain research team. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, under Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) and Prof. [Jin Zhang](https://jinzhang-sustech.github.io/). Prior to that, I received my B.E. in Communication Engineering from the Southern University of Science and Technology (SUSTech). 
 
-His work explores blockchain interoperability, sharding protocols, security enhancements, and intelligent blockchain systems. He has spearheaded the development of a new Layer-1 blockchain (the [HeLa Network](https://helalabs.com/)) that launched its mainnet in 2024, and has published extensively in top journals and conferences. He is also active in the research community, serving as a reviewer for numerous IEEE/ACM journals and conferences, and co-organizing workshops bridging blockchain and AI. 
+My work explores blockchain interoperability, sharding protocols, security enhancements, and intelligent blockchain systems. I have spearheaded the development of a new Layer-1 blockchain (the [HeLa Network](https://helalabs.com/)) that launched its mainnet in 2024, and have published extensively in top journals and conferences. I am also active in the research community, serving as a reviewer for numerous IEEE/ACM journals and conferences, and co-organizing workshops bridging blockchain and AI. 
 
 📢 **Hiring:** I’m recruiting **PhD students, Master’s students, Postdocs, and Research Assistants** — see **[Open Positions](/#hiring)**.
