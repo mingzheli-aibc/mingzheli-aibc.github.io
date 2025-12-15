@@ -102,6 +102,8 @@ sections:
       title: 🗞️ Recent News
       subtitle: ''
       text: |-
+        - **11/2025** · I was selected for **China’s national-level talent recruitment program “Qiming Program” (Youth Track)**.
+    
         - **09/2025** · Our paper **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution"** has been accepted by *IEEE TPDS*.
 
         - **08/2025** · I will formally join **Great Bay University** at the end of the year.
