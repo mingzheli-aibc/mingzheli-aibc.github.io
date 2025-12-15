@@ -105,6 +105,9 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Selected for the National-level Talent Recruitment Program “Qiming Program” (Youth Track)
+    date: '2025-11-01'
+    awarder: Ministry of Industry and Information Technology (MIIT), China
   - title: Winner of National Singapore Blockchain Innovation Challenge, ”Blockchain-based Federated Learning Platform”
     date: '2024-05-01'
     awarder: National Singapore Blockchain Innovation Challenge
