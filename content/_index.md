@@ -1,16 +1,17 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Mingzhe Li - Homepage'
+title: 'Homepage'
 date: 2022-10-24
 type: landing
 
 # SEO
-description: 'Mingzhe Li is an Assistant Professor at Great Bay University specializing in blockchain systems, sharding protocols, cross-chain interoperability, and DeFi security. Leader of HeLa Network blockchain development.'
+description: 'Mingzhe Li is an Assistant Professor at Great Bay University specializing in blockchain systems, sharding protocols, cross-chain interoperability, AI for blockchain, and DeFi security. Leader of HeLa Network blockchain development.'
 keywords:
   - Mingzhe Li
   - blockchain researcher
   - blockchain sharding
   - cross-chain interoperability
+  - AI for blockchain
   - DeFi security
   - HeLa Network
   - Great Bay University
