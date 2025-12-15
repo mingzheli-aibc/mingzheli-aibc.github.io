@@ -14,6 +14,7 @@ keywords:
   - blockchain researcher
   - blockchain sharding
   - cross-chain interoperability
+  - AI for blockchain
   - DeFi security
   - distributed systems
   - HeLa Network
