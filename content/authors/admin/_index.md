@@ -47,7 +47,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:mlibn@connect.ust.hk'
+    url: 'mailto:limz@gbu.edu.cn'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mingzhe-li-93701223a/
@@ -63,6 +63,11 @@ interests:
   - "AI for Blockchain"
 
 work:
+  - position: Assistant Professor
+    company_name: School of Computing and Information Technology (SCIT), Great Bay University
+    icon: ''
+    date_start: 2026-01-01
+    date_end: 
   - position: Invited Instructor
     company_name: Centre in Computational Technologies for Finance, Nanyang Technological University
     icon: ''
@@ -120,7 +125,7 @@ awards:
     awarder: Southern University of Science and Technology
 ---
 
-I am an incoming US-equivalent Assistant Professor at Great Bay University (from Jan 2026). Previously, I was a Research Scientist at the Institute of High Performance Computing (IHPC), A*STAR in Singapore, where I led the blockchain research team. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, under Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) and Prof. [Jin Zhang](https://jinzhang-sustech.github.io/). Prior to that, I received my B.E. in Communication Engineering from the Southern University of Science and Technology (SUSTech). 
+I am currently a US-equivalent Assistant Professor at Great Bay University. Previously, I was a Research Scientist at the Institute of High Performance Computing (IHPC), A*STAR in Singapore, where I led the blockchain research team. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST) in 2022, under Prof. [Wei Wang](https://www.cse.ust.hk/~weiwa/) and Prof. [Jin Zhang](https://jinzhang-sustech.github.io/). Prior to that, I received my B.E. in Communication Engineering from the Southern University of Science and Technology (SUSTech). 
 
 My work explores blockchain interoperability, sharding protocols, security enhancements, and intelligent blockchain systems. I have spearheaded the development of a new Layer-1 blockchain (the [HeLa Network](https://helalabs.com/)) that launched its mainnet in 2024, and have published extensively in top journals and conferences. In recognition of my research and industry contributions, I was selected for **China’s national-level talent recruitment program** (Qiming Youth). I am also active in the research community, serving as a reviewer for numerous IEEE/ACM journals and conferences, and co-organizing workshops bridging blockchain and AI. 
 
