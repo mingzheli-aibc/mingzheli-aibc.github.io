@@ -167,6 +167,10 @@ sections:
 
         ### Preprints & Under Review
 
+        - Kentaroh Toyoda, Xiao Wang, **Mingzhe Li**, Bo Gao, Yuan Wang, and Qingsong Wei.
+          **"Blockchain Data Analysis in the Era of Large-Language Models."**
+          *arXiv:2412.09640v1*, 2024.
+
         - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei.
           **"MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption."**
           *arXiv:2410.22100*, 2024.
@@ -175,9 +179,9 @@ sections:
           **"BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production."**
           *arXiv:2407.08537*, 2024.
 
-        - You Lin\*†, **Mingzhe Li\***, Qingsong Wei, Yong Liu, Siow Mong Rick Goh, and Jin Zhang.
-          **"DL-Chain: Scalable and Stable Blockchain Sharding with High Concurrency via Dual-Layer Consensus."**
-          *arXiv:2407.06882*, 2024.
+        - **Mingzhe Li\***, You Lin\*†, and Jin Zhang.
+          **”StableShard: Stable and Scalable Blockchain Sharding with High Concurrency via Collaborative Committees.”**
+          *arXiv:2407.06882v2*, 2024.
         
         ---
 
