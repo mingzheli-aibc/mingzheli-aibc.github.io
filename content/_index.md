@@ -103,6 +103,8 @@ sections:
       title: 🗞️ Recent News
       subtitle: ''
       text: |-
+        - **02/2026** · Our paper **"BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production"** has been accepted by *IEEE Transactions on Dependable and Secure Computing*.
+        
         - **11/2025** · I was selected for **China’s national-level talent recruitment program “Qiming Program” (Youth Track)**.
     
         - **09/2025** · Our paper **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution"** has been accepted by *IEEE TPDS*.
@@ -122,6 +124,10 @@ sections:
       subtitle: ''
       text: |-
         ### Published
+
+        - Hulin Yang\*†, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh.
+          **"BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production."**
+          *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2026.
 
         - Chaoyue Yin\*†, **Mingzhe Li\***, Jin Zhang, You Lin†, Qingsong Wei, and Siow Mong Rick Goh.
           **"Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution."**
@@ -174,10 +180,6 @@ sections:
         - **Mingzhe Li**, Bo Gao, Kentaroh Toyoda, Yechao Yang, Juniarto Samsudin, Haibin Zhang, Sifei Lu, Tai Hou Tng, Kerching Choo, Andy Ting, Siow Mong Rick Goh, and Qingsong Wei.
           **"MStableChain: Towards Multi-Native Stablecoins in EVM-Compatible Blockchain for Stable Fee and Mass Adoption."**
           *arXiv:2410.22100*, 2024.
-
-        - Hulin Yang\*†, **Mingzhe Li\***, Jin Zhang, Alia Asheralieva, Qingsong Wei, and Siow Mong Rick Goh.
-          **"BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production."**
-          *arXiv:2407.08537*, 2024.
 
         - **Mingzhe Li\***, You Lin\*†, and Jin Zhang.
           **”StableShard: Stable and Scalable Blockchain Sharding with High Concurrency via Collaborative Committees.”**
